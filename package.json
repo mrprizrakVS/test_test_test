@@ -1,0 +1,41 @@
+{
+  "name": "city-maps",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fawmi/vue-google-maps": "^0.9.79",
+    "@fortawesome/fontawesome-svg-core": "^6.3.0",
+    "@fortawesome/free-brands-svg-icons": "^6.3.0",
+    "@fortawesome/free-regular-svg-icons": "^6.3.0",
+    "@fortawesome/free-solid-svg-icons": "^6.3.0",
+    "@fortawesome/vue-fontawesome": "^3.0.3",
+    "es6-promise": "^4.2.8",
+    "vue": "^3.2.45",
+    "vue-google-maps-community-fork": "^0.2.3",
+    "vue-router": "^4.1.6",
+    "vue-template-compiler": "^2.7.14",
+    "vuex": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "vite": "^4.1.0",
+    "@popperjs/core": "^2.11.6",
+    "autoprefixer": "10.4.5",
+    "axios": "^0.25",
+    "bootstrap": "^5.2.3",
+    "laravel-mix": "^6.0.6",
+    "lodash": "^4.17.19",
+    "postcss": "^8.4.21",
+    "resolve-url-loader": "^5.0.0",
+    "sass": "^1.58.3",
+    "sass-loader": "^13.2.0",
+    "vue": "^3.2.37",
+    "vue-loader": "^16.8.3"
+  }
+}
